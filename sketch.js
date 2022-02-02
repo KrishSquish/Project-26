@@ -64,7 +64,7 @@ function draw() {
         playerArrows[i].body
       ); */
 
-      /* var board1Collision = Matter(
+       /*var board1Collision = Matter(
         board1.body,
         playerArrows[i].body
       ); */
